@@ -26,7 +26,7 @@ const typeDefs = gql`
 
 `;
 
-const books = [
+/* const books = [
     {
       title: 'Harry Potter and the Chamber of Secrets',
       author: 'J.K. Rowling',
@@ -35,7 +35,7 @@ const books = [
       title: 'Jurassic Park',
       author: 'Michael Crichton',
     },
-  ];
+  ]; */
 
   const resolvers = {
       Query: {
